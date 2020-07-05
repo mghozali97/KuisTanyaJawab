@@ -21,7 +21,6 @@ public class MenuActivity extends AppCompatActivity {
         teknologi = (Button) findViewById(R.id.teknologi);
         btnexit = (Button) findViewById(R.id.btnexit);
 
-
         teknologi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

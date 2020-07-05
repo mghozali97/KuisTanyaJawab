@@ -38,7 +38,6 @@ public class HomeActivity extends AppCompatActivity {
                     AlertDialog.Builder builder = new AlertDialog.Builder(HomeActivity.this);
                     builder.setMessage("Username atau Password Anda salah!")
                             .setNegativeButton("Retry", null).create().show();
-
                 }
 
             }

@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity {
                 j.putExtra("nilai",nilai);
                 startActivity(j);
                 finish();
-
             }
         });
     }
